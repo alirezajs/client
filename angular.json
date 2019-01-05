@@ -31,7 +31,7 @@
               "./Themes/Bootstrap_Custom.scss",
               "src/styles.scss"
               
-            ],
+],
             "scripts": []
           },
           "configurations": {
@@ -86,7 +86,6 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              
               "src/styles.scss"
             ],
             "scripts": [],
