@@ -4,10 +4,12 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { HeaderDirective } from './directive/header/header.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderDirective
   ],
   imports: [
     BrowserModule,
