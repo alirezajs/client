@@ -28,7 +28,7 @@
             ],
             "styles": [
               
-              "./Themes/Bootstrap_Custom.scss",
+              "./src/Themes/Bootstrap_Custom.scss",
               "src/styles.scss"
               
 ],
