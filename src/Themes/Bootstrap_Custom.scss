@@ -4,12 +4,10 @@
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
 
+header, nav, section, article, aside, footer, hgroup {
+    display: block;
+}
 
-
-
-
-// Custom.scss
-// Option B: Include parts of Bootstrap
 
 // Required
 @import "../../node_modules/bootstrap/scss/functions";
